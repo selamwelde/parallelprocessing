@@ -1,0 +1,12 @@
+<Destination>
+	<Airport>
+      <Code>ROC</Code>
+	  <Name>Greater Rochester</Name>
+	  <Location>Rochester NY</Location>
+	</Airport>
+	<Airport>
+      <Code>ORD</Code>
+	  <Name>Oharie</Name>
+	  <Location>Chicago IL</Location>
+	</Airport>
+</Destination>
